@@ -97,22 +97,4 @@
       <point x="377" y="-183" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-464" width="56" />
-      <hstem pos="-218" width="30" />
-      <vstem pos="-41" width="47" />
-      <vstem pos="-39" width="56" />
-      <vstem pos="108" width="30" />
-      <vstem pos="152" width="19" />
-      <vstem pos="344" width="33" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

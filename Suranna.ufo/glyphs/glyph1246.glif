@@ -228,29 +228,4 @@
       <point x="228" y="162"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-385" width="66" />
-      <hstem pos="-380" width="58" />
-      <hstem pos="-241" width="28" />
-      <hstem pos="-26" width="97" />
-      <hstem pos="-26" width="93" />
-      <hstem pos="-21" width="94" />
-      <hstem pos="191" width="35" />
-      <hstem pos="305" width="99" />
-      <hstem pos="308" width="98" />
-      <vstem pos="50" width="41" />
-      <vstem pos="338" width="36" />
-      <vstem pos="473" width="41" />
-      <vstem pos="727" width="30" />
-      <vstem pos="1020" width="37" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="1">
-  <advance width="621"/>
+  <advance width="539"/>
   <unicode hex="005A"/>
   <outline>
+    <contour>
+      <point x="63" y="632" type="line"/>
+      <point x="498" y="632" type="line"/>
+      <point x="498" y="612" type="line"/>
+      <point x="127" y="19" type="line"/>
+      <point x="404" y="19" type="line"/>
+      <point x="485" y="181" type="line"/>
+      <point x="506" y="181" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="21" y="19" type="line"/>
+      <point x="391" y="612" type="line"/>
+      <point x="146" y="612" type="line"/>
+      <point x="65" y="462" type="line"/>
+      <point x="44" y="462" type="line"/>
+    </contour>
   </outline>
 </glyph>

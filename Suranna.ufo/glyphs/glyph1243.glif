@@ -207,33 +207,6 @@
       <point x="812" y="563"/>
       <point x="833" y="539"/>
     </contour>
+    <component base="uni0C1C_uni0C4A.abvs"/>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-26" width="90" />
-      <hstem pos="210" width="72" />
-      <hstem pos="332" width="94" />
-      <hstem pos="377" width="35" />
-      <hstem pos="563" width="66" />
-      <hstem pos="679" width="58" />
-      <hstem pos="845" width="46" />
-      <vstem pos="19" width="68" />
-      <vstem pos="19" width="76" />
-      <vstem pos="213" width="60" />
-      <vstem pos="219" width="38" />
-      <vstem pos="266" width="30" />
-      <vstem pos="356" width="27" />
-      <vstem pos="479" width="45" />
-      <vstem pos="483" width="30" />
-      <vstem pos="654" width="38" />
-      <vstem pos="833" width="35" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>

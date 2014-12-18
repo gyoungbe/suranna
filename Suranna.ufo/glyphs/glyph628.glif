@@ -90,21 +90,4 @@
       <point x="289" y="-392"/>
     </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-  <hintSetList>
-    <hintset pointTag="hr00">
-      <hstem pos="-451" width="63" />
-      <hstem pos="-333" width="20" />
-      <hstem pos="-197" width="23" />
-      <vstem pos="-82" width="35" />
-      <vstem pos="159" width="26" />
-      <vstem pos="263" width="26" />
-    </hintset>
-  </hintSetList>
-  </data>
-  </dict>
-  </lib>
 </glyph>
